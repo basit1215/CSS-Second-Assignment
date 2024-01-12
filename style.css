@@ -1,0 +1,18 @@
+*{
+    background-color  :lightgrey;
+}
+h1 {color: brown;
+    background-color: rgb(240, 212, 216);
+}
+.para2 {
+    color :rgb(240, 226, 31);
+    background-color: lightyellow;
+}
+.link a{
+    color :rgb(61, 204, 61);
+    background-color:lemonchiffon ;
+}
+.para1 {
+    color :gray;
+    font-weight: 600;
+}
